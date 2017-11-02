@@ -8,12 +8,21 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "dagmara",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.2.2"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha.6"
-  }
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagaaa/cours.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dagaaa/cours/issues"
+  },
+  "homepage": "https://github.com/dagaaa/cours#readme"
 }
